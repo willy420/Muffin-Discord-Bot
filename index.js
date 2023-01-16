@@ -29,7 +29,7 @@ bot.on('message', message=>{
                 }
                 break;
             case 'description':
-                message.channel.sendMessage('This is Muffin Bot , created by Willy4 - 04.07.2019');
+                message.channel.sendMessage('This is Muffin Bot , created by David - 04.07.2019');
                 break;
     }
 })
